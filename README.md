@@ -20,3 +20,8 @@ An 8-bit ALU designed using Verilog HDL.
 - EDA Playground
 
 **Note:** This is a beginner-level RTL learning project, not an actual 2nm fabrication or sign-off implementation.
+
+## ALU Block Diagram
+
+![8-bit ALU Block Diagram](8%20bit%20alu.png)
+
