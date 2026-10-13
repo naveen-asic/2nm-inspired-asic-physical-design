@@ -76,6 +76,12 @@ Matrix B:
 - Icarus Verilog 12.0
 - EDA Playground
 
+- 
+### Simulation Waveform
+
+![2x2 Systolic MAC Accelerator Simulation Waveform](2x2_Systolic_MAC_Simulation_Waveform.png)
+
+
 **Current scope:** This version computes 2x2 matrix multiplication. Inter-PE systolic data propagation, synthesis, physical design, and power/timing analysis are future enhancements, not completed results.
 
 
