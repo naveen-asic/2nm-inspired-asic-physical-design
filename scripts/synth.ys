@@ -1,0 +1,8 @@
+
+read_verilog rtl/alu.v
+hierarchy -check -top alu
+proc
+opt
+check
+synth -top alu
+stat
